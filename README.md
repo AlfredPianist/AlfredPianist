@@ -4,7 +4,7 @@
 
 I'm passionate about music and software. Specifically how good software can help musicians make better music 😄.
 
-My future projects involve machine learning, artificial intelligence, and physical modeling of musical instruments 🚀🎶.
+My future projects involve artificial intelligence, and physical modeling of musical instruments 🚀🎶.
 
 - 🔭 I’m currently working on [Holberton Terminal AIO](https://github.com/AlfredPianist/Holberton_Term_AIO)
 - 🌱 I’m currently learning **JavaScript more deeply, college math, DSP**
